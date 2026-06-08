@@ -1,0 +1,5 @@
+truck,compartment,product,capacity_l,loaded_l,fill_ratio,capacity_violation_l
+T1,C0,R,8000,2500.0,0.3125,0.0
+T1,C1,D,7000,3000.0,0.42857142857142855,0.0
+T2,C0,D,6000,6000.0,1.0,0.0
+T2,C1,R,9000,8000.0,0.8888888888888888,0.0

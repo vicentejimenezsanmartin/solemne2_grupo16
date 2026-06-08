@@ -1,0 +1,3 @@
+truck,route,distance_km,departure_time,return_time,used
+T1,0 -> 3 -> 0,30,05:00,08:45,True
+T2,0 -> 4 -> 2 -> 1 -> 0,85,05:30,08:30,True

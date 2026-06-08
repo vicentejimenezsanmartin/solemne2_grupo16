@@ -1,0 +1,12 @@
+reset;
+model scheduling.mod;
+data scheduling.dat;
+
+# Cambiar el solver si el ambiente AMPL tiene otro configurado.
+option solver highs;
+
+solve;
+
+display Makespan;
+display start;
+display alpha;

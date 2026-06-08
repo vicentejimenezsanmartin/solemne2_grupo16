@@ -1,0 +1,18 @@
+reset;
+model routing_normal.mod;
+data routing_normal.dat;
+
+# Cambiar el solver si el ambiente AMPL tiene otro configurado.
+option solver highs;
+
+solve;
+
+display TotalCost;
+display u;
+display x;
+display z;
+display q;
+display y;
+display shortage;
+display t;
+display t_ret;

@@ -1,0 +1,7 @@
+component,value
+fixed_cost,900
+distance_cost,230
+shortage_penalty,0.0
+total_cost,1130.0
+total_distance_km,115
+total_shortage_l,0.0

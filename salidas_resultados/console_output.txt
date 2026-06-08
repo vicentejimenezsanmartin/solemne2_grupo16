@@ -1,0 +1,10 @@
+Solemne 2 - resultado computacional
+Mejor costo total: 1130
+Rutas: T1=0 -> 3 -> 0; T2=0 -> 4 -> 2 -> 1 -> 0
+Distancia total: 115 km
+Shortage total: 0 L
+Max gap estabilidad: 0.194
+Violaciones de ventana: 0
+Makespan scheduling: 32.5 min
+Candidatos exhaustivos evaluados: 480
+Tiempo de ejecucion: 0.2493 s

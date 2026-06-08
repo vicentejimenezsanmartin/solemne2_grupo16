@@ -1,0 +1,7 @@
+truck,moment,station,remaining_c0_l,remaining_c1_l,fill_c0,fill_c1,absolute_gap,limit,ok
+T1,salida_deposito,,2500.0,3000.0,0.3125,0.42857142857142855,0.11607142857142855,0.3,True
+T1,despues_estacion_3,3,0.0,0.0,0.0,0.0,0.0,0.3,True
+T2,salida_deposito,,6000.0,8000.0,1.0,0.8888888888888888,0.11111111111111116,0.3,True
+T2,despues_estacion_4,4,3500.0,7000.0,0.5833333333333334,0.7777777777777778,0.19444444444444442,0.3,True
+T2,despues_estacion_2,2,2000.0,3000.0,0.3333333333333333,0.3333333333333333,0.0,0.3,True
+T2,despues_estacion_1,1,0.0,0.0,0.0,0.0,0.0,0.3,True

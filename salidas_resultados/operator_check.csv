@@ -1,0 +1,10 @@
+metric,value
+total_cost,21200.0
+fixed_cost,900
+distance_cost,300
+shortage_penalty,20000.0
+total_distance_km,150
+total_shortage_l,2000.0
+max_stability_gap,0.4166666666666667
+max_stability_excess,0.1166666666666667
+time_violations,0

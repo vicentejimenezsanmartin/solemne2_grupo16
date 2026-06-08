@@ -1,0 +1,9 @@
+truck,station,compartment,product,delivered_l
+T1,3,C0,R,2500.0
+T1,3,C1,D,3000.0
+T2,4,C1,R,1000.0
+T2,4,C0,D,2500.0
+T2,2,C1,R,4000.0
+T2,2,C0,D,1500.0
+T2,1,C1,R,3000.0
+T2,1,C0,D,2000.0

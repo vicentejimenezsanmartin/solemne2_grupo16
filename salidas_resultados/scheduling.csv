@@ -1,0 +1,5 @@
+operation,truck,compartment,product,bay,start_min,end_min,duration_min
+T2_C0,T2,C0,D,Diesel,0.0,15.0,15.0
+T1_C1,T1,C1,D,Diesel,15.0,32.5,17.5
+T1_C0,T1,C0,R,Regular,0.0,15.0,15.0
+T2_C1,T2,C1,R,Regular,15.0,27.0,12.0

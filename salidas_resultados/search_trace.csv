@@ -1,0 +1,151 @@
+iteration,move,current_score,best_score,current_cost,best_cost,was_tabu,aspiration,tabu_size
+0,move 2 from T2 to T2,1200.0,1200.0,1200.0,1200.0,False,True,2
+1,move 1 from T1 to T2,1130.0,1130.0,1130.0,1130.0,False,True,3
+2,flip assignment T1,1130.0,1130.0,1130.0,1130.0,False,False,4
+3,move 1 from T2 to T2,1160.0,1130.0,1160.0,1130.0,False,False,5
+4,flip assignment T1,1160.0,1130.0,1160.0,1130.0,False,False,6
+5,move 1 from T2 to T2,1190.0,1130.0,1190.0,1130.0,False,False,7
+6,flip assignment T1,1190.0,1130.0,1190.0,1130.0,False,False,8
+7,move 4 from T2 to T1,1200.0,1130.0,1200.0,1130.0,False,False,9
+8,move 4 from T1 to T1,1200.0,1130.0,1200.0,1130.0,False,False,10
+9,move 1 from T2 to T2,1200.0,1130.0,1200.0,1130.0,False,False,11
+10,move 3 from T1 to T1,1200.0,1130.0,1200.0,1130.0,False,False,12
+11,swap stations,1220.0,1130.0,1220.0,1130.0,False,False,13
+12,move 4 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,14
+13,swap stations,1200.0,1130.0,1200.0,1130.0,False,False,15
+14,move 1 from T2 to T2,1200.0,1130.0,1200.0,1130.0,False,False,16
+15,flip assignment T1,1200.0,1130.0,1200.0,1130.0,False,False,17
+16,move 1 from T2 to T1,1130.0,1130.0,1130.0,1130.0,False,False,18
+17,flip assignment T2,1130.0,1130.0,1130.0,1130.0,False,False,18
+18,move 1 from T1 to T1,1160.0,1130.0,1160.0,1130.0,False,False,18
+19,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+20,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+21,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+22,move 4 from T1 to T1,1190.0,1130.0,1190.0,1130.0,False,False,18
+23,flip assignment T2,1190.0,1130.0,1190.0,1130.0,False,False,18
+24,move 3 from T2 to T1,45730.0,1130.0,45730.0,1130.0,False,False,18
+25,move 1 from T1 to T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+26,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+27,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+28,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+29,move 2 from T1 to T1,1170.0,1130.0,1170.0,1130.0,False,False,18
+30,flip assignment T2,1170.0,1130.0,1170.0,1130.0,False,False,18
+31,move 4 from T1 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+32,move 3 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+33,move 4 from T2 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+34,move 2 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+35,move 4 from T2 to T1,1230.0,1130.0,1230.0,1130.0,False,False,18
+36,flip assignment T2,1230.0,1130.0,1230.0,1130.0,False,False,18
+37,move 3 from T1 to T2,1200.0,1130.0,1200.0,1130.0,False,False,18
+38,move 4 from T1 to T1,1200.0,1130.0,1200.0,1130.0,False,False,18
+39,move 1 from T2 to T1,1130.0,1130.0,1130.0,1130.0,False,False,18
+40,flip assignment T2,1130.0,1130.0,1130.0,1130.0,False,False,18
+41,move 1 from T1 to T1,1160.0,1130.0,1160.0,1130.0,False,False,18
+42,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+43,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+44,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+45,move 4 from T1 to T1,1190.0,1130.0,1190.0,1130.0,False,False,18
+46,flip assignment T2,1190.0,1130.0,1190.0,1130.0,False,False,18
+47,move 3 from T2 to T1,45730.0,1130.0,45730.0,1130.0,False,False,18
+48,move 1 from T1 to T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+49,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+50,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+51,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+52,move 2 from T1 to T1,1170.0,1130.0,1170.0,1130.0,False,False,18
+53,flip assignment T2,1170.0,1130.0,1170.0,1130.0,False,False,18
+54,move 4 from T1 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+55,move 3 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+56,move 4 from T2 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+57,move 2 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+58,move 4 from T2 to T1,1230.0,1130.0,1230.0,1130.0,False,False,18
+59,flip assignment T2,1230.0,1130.0,1230.0,1130.0,False,False,18
+60,move 3 from T1 to T2,1200.0,1130.0,1200.0,1130.0,False,False,18
+61,move 4 from T1 to T1,1200.0,1130.0,1200.0,1130.0,False,False,18
+62,move 1 from T2 to T1,1130.0,1130.0,1130.0,1130.0,False,False,18
+63,flip assignment T2,1130.0,1130.0,1130.0,1130.0,False,False,18
+64,move 1 from T1 to T1,1160.0,1130.0,1160.0,1130.0,False,False,18
+65,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+66,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+67,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+68,move 4 from T1 to T1,1190.0,1130.0,1190.0,1130.0,False,False,18
+69,flip assignment T2,1190.0,1130.0,1190.0,1130.0,False,False,18
+70,move 3 from T2 to T1,45730.0,1130.0,45730.0,1130.0,False,False,18
+71,move 1 from T1 to T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+72,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+73,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+74,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+75,move 2 from T1 to T1,1170.0,1130.0,1170.0,1130.0,False,False,18
+76,flip assignment T2,1170.0,1130.0,1170.0,1130.0,False,False,18
+77,move 4 from T1 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+78,move 3 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+79,move 4 from T2 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+80,move 2 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+81,move 4 from T2 to T1,1230.0,1130.0,1230.0,1130.0,False,False,18
+82,flip assignment T2,1230.0,1130.0,1230.0,1130.0,False,False,18
+83,move 3 from T1 to T2,1200.0,1130.0,1200.0,1130.0,False,False,18
+84,move 4 from T1 to T1,1200.0,1130.0,1200.0,1130.0,False,False,18
+85,move 1 from T2 to T1,1130.0,1130.0,1130.0,1130.0,False,False,18
+86,flip assignment T2,1130.0,1130.0,1130.0,1130.0,False,False,18
+87,move 1 from T1 to T1,1160.0,1130.0,1160.0,1130.0,False,False,18
+88,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+89,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+90,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+91,move 4 from T1 to T1,1190.0,1130.0,1190.0,1130.0,False,False,18
+92,flip assignment T2,1190.0,1130.0,1190.0,1130.0,False,False,18
+93,move 3 from T2 to T1,45730.0,1130.0,45730.0,1130.0,False,False,18
+94,move 1 from T1 to T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+95,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+96,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+97,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+98,move 2 from T1 to T1,1170.0,1130.0,1170.0,1130.0,False,False,18
+99,flip assignment T2,1170.0,1130.0,1170.0,1130.0,False,False,18
+100,move 4 from T1 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+101,move 3 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+102,move 4 from T2 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+103,move 2 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+104,move 4 from T2 to T1,1230.0,1130.0,1230.0,1130.0,False,False,18
+105,flip assignment T2,1230.0,1130.0,1230.0,1130.0,False,False,18
+106,move 3 from T1 to T2,1200.0,1130.0,1200.0,1130.0,False,False,18
+107,move 4 from T1 to T1,1200.0,1130.0,1200.0,1130.0,False,False,18
+108,move 1 from T2 to T1,1130.0,1130.0,1130.0,1130.0,False,False,18
+109,flip assignment T2,1130.0,1130.0,1130.0,1130.0,False,False,18
+110,move 1 from T1 to T1,1160.0,1130.0,1160.0,1130.0,False,False,18
+111,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+112,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+113,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+114,move 4 from T1 to T1,1190.0,1130.0,1190.0,1130.0,False,False,18
+115,flip assignment T2,1190.0,1130.0,1190.0,1130.0,False,False,18
+116,move 3 from T2 to T1,45730.0,1130.0,45730.0,1130.0,False,False,18
+117,move 1 from T1 to T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+118,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+119,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+120,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+121,move 2 from T1 to T1,1170.0,1130.0,1170.0,1130.0,False,False,18
+122,flip assignment T2,1170.0,1130.0,1170.0,1130.0,False,False,18
+123,move 4 from T1 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+124,move 3 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+125,move 4 from T2 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+126,move 2 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+127,move 4 from T2 to T1,1230.0,1130.0,1230.0,1130.0,False,False,18
+128,flip assignment T2,1230.0,1130.0,1230.0,1130.0,False,False,18
+129,move 3 from T1 to T2,1200.0,1130.0,1200.0,1130.0,False,False,18
+130,move 4 from T1 to T1,1200.0,1130.0,1200.0,1130.0,False,False,18
+131,move 1 from T2 to T1,1130.0,1130.0,1130.0,1130.0,False,False,18
+132,flip assignment T2,1130.0,1130.0,1130.0,1130.0,False,False,18
+133,move 1 from T1 to T1,1160.0,1130.0,1160.0,1130.0,False,False,18
+134,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+135,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+136,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+137,move 4 from T1 to T1,1190.0,1130.0,1190.0,1130.0,False,False,18
+138,flip assignment T2,1190.0,1130.0,1190.0,1130.0,False,False,18
+139,move 3 from T2 to T1,45730.0,1130.0,45730.0,1130.0,False,False,18
+140,move 1 from T1 to T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+141,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+142,flip assignment T2,1160.0,1130.0,1160.0,1130.0,False,False,18
+143,swap stations,1160.0,1130.0,1160.0,1130.0,False,False,18
+144,move 2 from T1 to T1,1170.0,1130.0,1170.0,1130.0,False,False,18
+145,flip assignment T2,1170.0,1130.0,1170.0,1130.0,False,False,18
+146,move 4 from T1 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+147,move 3 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18
+148,move 4 from T2 to T2,1220.0,1130.0,1220.0,1130.0,False,False,18
+149,move 2 from T1 to T1,1220.0,1130.0,1220.0,1130.0,False,False,18

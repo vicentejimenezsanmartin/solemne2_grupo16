@@ -1,0 +1,13 @@
+﻿IMPORTANTE
+
+Los archivos con extension .mod no son videos.
+
+En esta entrega, .mod significa "modelo AMPL". Son archivos de texto que contienen la formulacion computacional del modelo de optimizacion y se incluyen porque el enunciado pide adjuntar archivos .mod y .dat para reproducir los resultados.
+
+Archivos incluidos:
+- routing_normal.mod: modelo AMPL del problema deterministico de distribucion.
+- routing_normal.dat: datos del problema deterministico.
+- routing_normal.run: script de ejecucion AMPL.
+- scheduling.mod: modelo AMPL del scheduling de carga.
+- scheduling.dat: datos del scheduling.
+- scheduling.run: script de ejecucion AMPL.

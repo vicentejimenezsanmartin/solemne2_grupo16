@@ -1,0 +1,112 @@
+{
+  "selected_solution": {
+    "routes": {
+      "T1": [
+        3
+      ],
+      "T2": [
+        4,
+        2,
+        1
+      ]
+    },
+    "assignment": {
+      "T1": {
+        "C0": "R",
+        "C1": "D"
+      },
+      "T2": {
+        "C0": "D",
+        "C1": "R"
+      }
+    },
+    "score": 1130.0,
+    "total_cost": 1130.0,
+    "fixed_cost": 900,
+    "distance_cost": 230,
+    "shortage_penalty": 0.0,
+    "total_distance": 115,
+    "total_shortage": 0.0,
+    "feasible_hard": true,
+    "no_shortage": true,
+    "fully_feasible": true,
+    "max_stability_gap": 0.19444444444444442,
+    "max_stability_excess": 0.0,
+    "time_violations": 0
+  },
+  "tabu_search_best": {
+    "routes": {
+      "T1": [
+        3
+      ],
+      "T2": [
+        4,
+        2,
+        1
+      ]
+    },
+    "assignment": {
+      "T1": {
+        "C0": "R",
+        "C1": "D"
+      },
+      "T2": {
+        "C0": "D",
+        "C1": "R"
+      }
+    },
+    "score": 1130.0,
+    "total_cost": 1130.0,
+    "fixed_cost": 900,
+    "distance_cost": 230,
+    "shortage_penalty": 0.0,
+    "total_distance": 115,
+    "total_shortage": 0.0,
+    "feasible_hard": true,
+    "no_shortage": true,
+    "fully_feasible": true,
+    "max_stability_gap": 0.19444444444444442,
+    "max_stability_excess": 0.0,
+    "time_violations": 0
+  },
+  "operator_solution": {
+    "routes": {
+      "T1": [
+        1,
+        3
+      ],
+      "T2": [
+        2,
+        4
+      ]
+    },
+    "assignment": {
+      "T1": {
+        "C0": "R",
+        "C1": "D"
+      },
+      "T2": {
+        "C0": "D",
+        "C1": "R"
+      }
+    },
+    "score": 1032866.6666666666,
+    "total_cost": 21200.0,
+    "fixed_cost": 900,
+    "distance_cost": 300,
+    "shortage_penalty": 20000.0,
+    "total_distance": 150,
+    "total_shortage": 2000.0,
+    "feasible_hard": false,
+    "no_shortage": false,
+    "fully_feasible": false,
+    "max_stability_gap": 0.4166666666666667,
+    "max_stability_excess": 0.1166666666666667,
+    "time_violations": 0
+  },
+  "exhaustive_candidates_evaluated": 480,
+  "tabu_found_selected_cost": true,
+  "loading_schedule_makespan_min": 32.5,
+  "runtime_seconds": 0.24926539999432862,
+  "random_seed": 1052026
+}

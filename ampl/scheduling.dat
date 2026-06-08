@@ -1,0 +1,24 @@
+set O := T1_C0 T1_C1 T2_C0 T2_C1;
+set B := Regular Diesel;
+
+param M := 1000000;
+
+param bay :=
+T1_C0 Regular
+T1_C1 Diesel
+T2_C0 Diesel
+T2_C1 Regular;
+
+param duration :=
+T1_C0 15
+T1_C1 17.5
+T2_C0 15
+T2_C1 12;
+
+set PRECEDENCE :=
+(T1_C0, T1_C1)
+(T2_C0, T2_C1);
+
+set SAME_BAY_PAIRS :=
+(T1_C0, T2_C1)
+(T1_C1, T2_C0);
